@@ -6,6 +6,7 @@ joblib
 wordcloud
 matplotlib
 PyMuPDF
+python-docx
 
 
 streamlit
