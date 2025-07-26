@@ -1,0 +1,14 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+wordcloud
+matplotlib
+
+streamlit
+joblib
+matplotlib
+wordcloud
+scikit-learn
+seaborn

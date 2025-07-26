@@ -1,0 +1,3 @@
+We are seeking a skilled data analyst with expertise in SQL, Python, Excel, and dashboard tools like Tableau or PowerBI.
+Experience with data cleaning, ETL pipelines, and machine learning is a bonus.
+Strong communication and business insights preferred.
