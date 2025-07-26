@@ -5,6 +5,8 @@ numpy
 joblib
 wordcloud
 matplotlib
+PyMuPDF
+
 
 streamlit
 joblib
