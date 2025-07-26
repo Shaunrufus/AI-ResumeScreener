@@ -1,5 +1,11 @@
 # AI-ResumeScreener
 
+
+
+git clone https://github.com/your-username/AI-Resume-Screener.git
+cd AI-Resume-Screener
+ 
+
 # 🤖 AI Resume Screener
 
 An AI-powered web app built with Streamlit that screens resumes and predicts the most suitable job category using Natural Language Processing (NLP) and Machine Learning. It also evaluates resumes against a sample job description (JD) and provides ATS scores, structure analysis, suggestions, and keyword visualizations.
@@ -55,14 +61,10 @@ AI-Resume-Screener/
 
 ## 🛠️ Setup Instructions (Local Development)
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/AI-Resume-Screener.git
-cd AI-Resume-Screener
+ 
 
 
-#Install Dependencies
+Install Dependencies
 pip install -r requirements.txt
 
 #Run the App
@@ -93,3 +95,10 @@ PyMuPDF (as fitz)
 👨‍💻 Author
 Shaun Rufus
 ML Engineer | Python Developer | AI Enthusiast
+
+
+```bash
+git clone https://github.com/your-username/AI-Resume-Screener.git
+cd AI-Resume-Screener
+
+ 
